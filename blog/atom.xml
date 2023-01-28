@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shravanisree.github.io/blog</id>
+    <id>https://shravanisree.github.io/Shravani-Learns/blog</id>
     <title>My Site Blog</title>
     <updated>2023-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://shravanisree.github.io/blog"/>
+    <link rel="alternate" href="https://shravanisree.github.io/Shravani-Learns/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://shravanisree.github.io/img/favicon.ico</icon>
+    <icon>https://shravanisree.github.io/Shravani-Learns/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://shravanisree.github.io/blog/welcome</id>
-        <link href="https://shravanisree.github.io/blog/welcome"/>
+        <id>https://shravanisree.github.io/Shravani-Learns/blog/welcome</id>
+        <link href="https://shravanisree.github.io/Shravani-Learns/blog/welcome"/>
         <updated>2023-01-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi, I am Shravani.]]></summary>
         <content type="html"><![CDATA[<p>Hi, I am Shravani.</p>]]></content>
